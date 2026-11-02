@@ -10,6 +10,12 @@
 |------|------|
 | `data/context` | 投资者关系语境 (git submodule → quanttide-context-of-investor-relations) |
 
+## 文档
+
+| 路径 | 说明 |
+|------|------|
+| `docs/tutorial` | 投资者关系教程 (git submodule → quanttide-tutorial-of-investor-relations) |
+
 ## 许可
 
 [CC BY 4.0](LICENSE)
